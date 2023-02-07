@@ -1,0 +1,4 @@
+[submodule "wsdd"]
+	path = wsdd
+	url = https://github.com/christgau/wsdd.git
+	branch = master
